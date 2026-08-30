@@ -1,2 +1,11 @@
-# hola-uvwr
-IMAGEN DE FELICIDAD — creada con VForge
+# HOLA
+
+IMAGEN DE FELICIDAD
+
+**Plantilla:** landing
+
+**Módulos solicitados:**
+- (ninguno)
+
+---
+Generada con VForge.
